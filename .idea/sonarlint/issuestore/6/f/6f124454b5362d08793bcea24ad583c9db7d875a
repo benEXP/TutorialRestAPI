@@ -1,5 +1,5 @@
 
-qsquid:S1192%"NDefine a constant instead of duplicating this literal " successfully" 3 times.(ˆñ§¶úÿÿÿÿ8úë”’œ-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šĞàß
-^squid:S4684S"@Replace this persistent entity with a simple POJO or DTO object.(¹®Ç€8úë”’œ-
 ^squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(å‘”8úë”’œ-
+qsquid:S1192%"NDefine a constant instead of duplicating this literal " successfully" 3 times.(ˆñ§¶úÿÿÿÿ8úë”’œ-
+^squid:S4684S"@Replace this persistent entity with a simple POJO or DTO object.(¹®Ç€8úë”’œ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šĞàß
