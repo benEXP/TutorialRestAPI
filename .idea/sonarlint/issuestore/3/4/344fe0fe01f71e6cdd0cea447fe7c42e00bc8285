@@ -1,0 +1,5 @@
+
+·%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'Tutorial.Exceptions.RestException.BadRequestException' which is a runtime exception.(š¥ÂÖüÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šĞàß
+´%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'Tutorial.Exceptions.RestException.ConflictException' which is a runtime exception.(ú¼²×ûÿÿÿÿ
+·%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'Tutorial.Exceptions.RestException.BadRequestException' which is a runtime exception.(„»’ıÿÿÿÿ
