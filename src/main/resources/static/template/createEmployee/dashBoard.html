@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Employee</title>
+    <link rel = "stylesheet"
+          type="text/css"
+          href="createEmployee.css"/>
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type ="text/javascript" src ="dashBoard.js"></script>
+</head>
+<body>
+    <h1>DashBoard</h1>
+    <hr />
+
+        <table align="center">
+            <tr>
+                <td>ID</td>
+                <td><input id="id_txt" name="ID" type="number" min="1" max="99999" onkeypress="if(this.value.length == 6) return false;" /></td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td><input id="name_txt" name="Name" type="text" /></td>
+            </tr>
+            <tr>
+                <td>Age</td>
+                <td><input id="age_txt" name="Age" type="number" min="21" max="60" onkeypress="if(this.value.length == 2) return false;"/></td>
+            </tr>
+            <tr>
+                <td>Role</td>
+                <td><input id="role_txt" name="Role" type="text" /></td>
+            </tr>
+            <tr>
+                <td><button id="createButton">Create</button></td>
+                <td><button id="updateButton">Update</button></td>
+                <td><button id="deleteButton">Delete</button></td>
+                <td><button id="clearButton">Clear</button></td>
+                <td><button id="cancelButton">Cancel</button></td>
+            </tr>
+        </table>
+
+    <!-- Result Container  -->
+    <div id="resultContainer" style="display: none;" align="center">
+        <hr/>
+        <h4 id="responseHeader"> JSON Response From Server</h4>
+        <h5 id="textContainer" style="color: green;"></h5>
+    </div>
+</body>
+</html>

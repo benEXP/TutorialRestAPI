@@ -1,0 +1,8 @@
+
+µ%squid:RedundantThrowsDeclarationCheck
+"Remove the declaration of thrown exception 'Tutorial.Exceptions.FileRepoExceptions.NoIdException' which is a runtime exception.(­Çú¡øÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôãö¾
+·%squid:RedundantThrowsDeclarationCheck"…Remove the declaration of thrown exception 'Tutorial.Exceptions.FileRepoExceptions.IdNotFoundException' which is a runtime exception.(£¯•À
+·%squid:RedundantThrowsDeclarationCheck"…Remove the declaration of thrown exception 'Tutorial.Exceptions.FileRepoExceptions.IdNotFoundException' which is a runtime exception.(©ä’˜
+Ÿ%squid:RedundantThrowsDeclarationCheck
+"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(­Çú¡øÿÿÿÿ

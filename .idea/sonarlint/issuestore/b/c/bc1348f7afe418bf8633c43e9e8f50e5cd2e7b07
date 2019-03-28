@@ -1,0 +1,24 @@
+
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ãïþ‰úÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(î¤Û¯
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(»˜ñº
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(Ø°Ù†
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë³áü
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÃ¯á
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ã½Æ™úÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾áã¦
+Msquid:S1481	"1Remove this unused "inValidtoken" local variable.(ØœÎ¾ûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø”óÉ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¹ž›øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š”ÐÌûÿÿÿÿ
+bsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(”€øç
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿Ùµ¼
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(†µƒ
